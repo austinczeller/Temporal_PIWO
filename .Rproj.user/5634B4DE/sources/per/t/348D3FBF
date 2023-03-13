@@ -1,0 +1,27 @@
+{
+    "id": "348D3FBF",
+    "path": "~/R Projects/Temporal_PIWO/00_Cleaning_Time_of_Year_data.R",
+    "project_path": "00_Cleaning_Time_of_Year_data.R",
+    "type": "r_source",
+    "hash": "1955390065",
+    "contents": "",
+    "dirty": false,
+    "created": 1675712256573.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "130,12",
+        "scrollLine": "110"
+    },
+    "folds": "22|29|29|44|\n30|26|39|67|\n40|21|50|0|\n51|30|55|91|\n56|11|70|0|\n",
+    "lastKnownWriteTime": 1677874738,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677874738414,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1A952EB",
+    "path": "~/R Projects/Temporal_PIWO/00_Cleaning_Time_of_day_data.R",
+    "project_path": "00_Cleaning_Time_of_day_data.R",
+    "type": "r_source",
+    "hash": "1631624615",
+    "contents": "",
+    "dirty": false,
+    "created": 1675711700907.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,19",
+        "scrollLine": "0"
+    },
+    "folds": "2|13|15|15|\n29|29|34|60|\n35|26|43|67|\n44|21|50|28|\n51|34|66|0|\n67|30|71|91|\n72|20|81|82|\n82|23|93|58|\n94|18|110|0|\n",
+    "lastKnownWriteTime": 1677704695,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677873993320,
+    "read_only": false,
+    "read_only_alternatives": []
+}
