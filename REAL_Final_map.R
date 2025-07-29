@@ -65,4 +65,3 @@ combined_map <- ggdraw() +
   draw_plot(inset_map, x = 0.65, y = 0.70, width = 0.3, height = 0.3)
 combined_map
 
-#GGSAVE IS FUCKED DONT USE IT JUST EXPORT IT I USED 1000 WIDTH
